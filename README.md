@@ -4,7 +4,7 @@ OpenLibraryHarConverter converts HAR files saved from archive.org's openlibrary.
 
 ## Usage
 
-olhc.exe pathto.har
+`olhc.exe pathto.har`
 
 olhc.exe is found in the ./dist folder
 
